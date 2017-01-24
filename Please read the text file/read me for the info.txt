@@ -1,0 +1,1 @@
+Communicate on child processes and triggers events on child events the defining custom event listeners on the child event
